@@ -20,7 +20,7 @@ def set_sys_time(year, month, day):
 
 def trick_commit(year, month, day):
     set_sys_time(year, month, day)
-    for j in range(random.randint(0, 5)):
+    for j in range(random.randint(0, 3)):
         modify()
         commit()
 
@@ -32,4 +32,4 @@ def daily_commit(start_date, end_date):
 
 
 if __name__ == '__main__':
-    daily_commit(datetime.date(2018, 12, 27), datetime.date(2019, 2, 22))
+    daily_commit(datetime.date(2018, 2, 18), datetime.date(2018, 7, 25))
