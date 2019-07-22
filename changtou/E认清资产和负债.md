@@ -10,20 +10,18 @@
 
 
 
-![](/Users/ysir/Desktop/长投学堂/images/WechatIMG523.png)
+![](images/WechatIMG523.png)
 
 <center>富人的现金流表</center>
-
 > 富人的秘密：资产品种丰富，给自己带来更多收入，不只靠工资！如果你的收入只有工资，那你真的要好好反省了。
 
 > 当我们的被动收入能够覆盖掉支出的时候，我们就实现了我们所理想的“财务自由”。
 
 
 
-![](/Users/ysir/Desktop/长投学堂/images/WechatIMG535.png)
+![](images/WechatIMG535.png)
 
 <center>穷人的现金流表</center>
-
 > 穷人要不时的分析一下，自己的花费，哪些是资产，哪些是负债，争取以后更多的买入资产！
 
 
