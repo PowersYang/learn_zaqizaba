@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+/usr/local/spark-2.2.0/sbin/stop-all.sh ;/usr/local/hadoop-2.8.1/sbin/stop-all.sh ;/usr/local/hadoop-2.8.1/sbin/start-all.sh ;/usr/local/spark-2.2.0/sbin/start-all.sh
+

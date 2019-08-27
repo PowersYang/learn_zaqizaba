@@ -1,0 +1,1 @@
+cd /home/bigdata/tasks/; /usr/bin/python3 build_tree.py

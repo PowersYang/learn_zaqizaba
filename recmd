@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+/usr/local/spark-2.2.0/bin/spark-submit  --class bd.Recmd /home/bigdata/cq2tasks/dataana4cq2.jar
+

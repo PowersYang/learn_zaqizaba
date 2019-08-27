@@ -1,0 +1,1 @@
+/usr/local/spark-2.2.0/bin/spark-submit  --class SkillAnalyze --executor-memory 8g --driver-memory 4g /home/bigdata/tasks/skillanalyze.jar

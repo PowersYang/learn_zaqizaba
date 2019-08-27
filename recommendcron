@@ -1,0 +1,1 @@
+cd /home/bigdata/cq2tasks/; /usr/bin/python3 recommend.py

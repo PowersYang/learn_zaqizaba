@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+/usr/local/spark-2.2.0/bin/spark-submit  --class bd.trend.t_cncd --executor-memory 8g --driver-memory 4g /home/bigdata/cq2tasks/dataana4cq2.jar; /usr/local/spark-2.2.0/bin/spark-submit  --class bd.trend.t_xacq --executor-memory 8g --driver-memory 4g /home/bigdata/cq2tasks/dataana4cq2.jar; /usr/local/spark-2.2.0/bin/spark-submit  --class bd.trend.t_bjsh --executor-memory 8g --driver-memory 4g /home/bigdata/cq2tasks/dataana4cq2.jar; /usr/local/spark-2.2.0/bin/spark-submit  --class bd.trend.t_gzsz --executor-memory 8g --driver-memory 4g /home/bigdata/cq2tasks/dataana4cq2.jar
+
